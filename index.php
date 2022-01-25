@@ -8,8 +8,8 @@
 
 <h1>this is a home page welcome to the operator</h1>
 <button type="button" > 
-	<a href="operator.php"> click here to enter</button>
-</a>
+	<a href="operator.php"> click here to enter </a></button>
+
 
 
 </body>
