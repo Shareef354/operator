@@ -7,7 +7,9 @@
 <body>
 
 <h1>this is a home page welcome to the operator</h1>
-<button type="button"  href="operator.php">click here to enter</button>
+<button type="button" > 
+	<a href="operator.php"> click here to enter</button>
+</a>
 
 
 </body>
