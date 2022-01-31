@@ -1,3 +1,3 @@
 <?php 
-echo $_GET['$anser']
+echo $anser
 ?>
